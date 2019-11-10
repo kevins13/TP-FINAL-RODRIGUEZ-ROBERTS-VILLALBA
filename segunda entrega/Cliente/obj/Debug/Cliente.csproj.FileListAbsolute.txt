@@ -1,0 +1,45 @@
+C:\Users\paco\Desktop\proyectos\Cliente\Cliente\bin\Debug\Cliente.exe.config
+C:\Users\paco\Desktop\proyectos\Cliente\Cliente\obj\Debug\Cliente.csprojResolveAssemblyReference.cache
+C:\Users\paco\Desktop\proyectos\Cliente\Cliente\obj\Debug\Cliente.Form1.resources
+C:\Users\paco\Desktop\proyectos\Cliente\Cliente\obj\Debug\Cliente.Properties.Resources.resources
+C:\Users\paco\Desktop\proyectos\Cliente\Cliente\obj\Debug\Cliente.csproj.GenerateResource.Cache
+C:\Users\paco\Desktop\proyectos\Cliente\Cliente\bin\Debug\Cliente.exe
+C:\Users\paco\Desktop\proyectos\Cliente\Cliente\bin\Debug\Cliente.pdb
+C:\Users\paco\Desktop\proyectos\Cliente\Cliente\obj\Debug\Cliente.exe
+C:\Users\paco\Desktop\proyectos\Cliente\Cliente\obj\Debug\Cliente.pdb
+C:\Users\House\Downloads\Programas c#\Cliente\Cliente\bin\Debug\Cliente.exe.config
+C:\Users\House\Downloads\Programas c#\Cliente\Cliente\obj\Debug\Cliente.exe
+C:\Users\House\Downloads\Programas c#\Cliente\Cliente\obj\Debug\Cliente.pdb
+C:\Users\House\Downloads\Programas c#\Cliente\Cliente\bin\Debug\Cliente.exe
+C:\Users\House\Downloads\Programas c#\Cliente\Cliente\bin\Debug\Cliente.pdb
+C:\Users\House\Downloads\Programas c#\Cliente\Cliente\obj\Debug\Cliente.csprojResolveAssemblyReference.cache
+C:\Users\House\Downloads\Programas c#\Cliente\Cliente\obj\Debug\Cliente.Form1.resources
+C:\Users\House\Downloads\Programas c#\Cliente\Cliente\obj\Debug\Cliente.Properties.Resources.resources
+C:\Users\House\Downloads\Programas c#\Cliente\Cliente\obj\Debug\Cliente.csproj.GenerateResource.Cache
+C:\Users\necho\Downloads\Cliente\Cliente\Cliente\bin\Debug\Cliente.exe.config
+C:\Users\necho\Downloads\Cliente\Cliente\Cliente\bin\Debug\Cliente.exe
+C:\Users\necho\Downloads\Cliente\Cliente\Cliente\bin\Debug\Cliente.pdb
+C:\Users\necho\Downloads\Cliente\Cliente\Cliente\obj\Debug\Cliente.csprojAssemblyReference.cache
+C:\Users\necho\Downloads\Cliente\Cliente\Cliente\obj\Debug\Cliente.Form1.resources
+C:\Users\necho\Downloads\Cliente\Cliente\Cliente\obj\Debug\Cliente.Properties.Resources.resources
+C:\Users\necho\Downloads\Cliente\Cliente\Cliente\obj\Debug\Cliente.csproj.GenerateResource.cache
+C:\Users\necho\Downloads\Cliente\Cliente\Cliente\obj\Debug\Cliente.exe
+C:\Users\necho\Downloads\Cliente\Cliente\Cliente\obj\Debug\Cliente.pdb
+C:\Users\cinesio.villalba\Downloads\trabajo chat\Cliente\Cliente\Cliente\bin\Debug\Cliente.exe.config
+C:\Users\cinesio.villalba\Downloads\trabajo chat\Cliente\Cliente\Cliente\bin\Debug\Cliente.exe
+C:\Users\cinesio.villalba\Downloads\trabajo chat\Cliente\Cliente\Cliente\bin\Debug\Cliente.pdb
+C:\Users\cinesio.villalba\Downloads\trabajo chat\Cliente\Cliente\Cliente\obj\Debug\Cliente.csprojAssemblyReference.cache
+C:\Users\cinesio.villalba\Downloads\trabajo chat\Cliente\Cliente\Cliente\obj\Debug\Cliente.Form1.resources
+C:\Users\cinesio.villalba\Downloads\trabajo chat\Cliente\Cliente\Cliente\obj\Debug\Cliente.Properties.Resources.resources
+C:\Users\cinesio.villalba\Downloads\trabajo chat\Cliente\Cliente\Cliente\obj\Debug\Cliente.csproj.GenerateResource.cache
+C:\Users\cinesio.villalba\Downloads\trabajo chat\Cliente\Cliente\Cliente\obj\Debug\Cliente.exe
+C:\Users\cinesio.villalba\Downloads\trabajo chat\Cliente\Cliente\Cliente\obj\Debug\Cliente.pdb
+C:\Users\necho\Downloads\TrabajoFinalProgramacionChat\Cliente\Cliente\Cliente\bin\Debug\Cliente.exe.config
+C:\Users\necho\Downloads\TrabajoFinalProgramacionChat\Cliente\Cliente\Cliente\bin\Debug\Cliente.exe
+C:\Users\necho\Downloads\TrabajoFinalProgramacionChat\Cliente\Cliente\Cliente\bin\Debug\Cliente.pdb
+C:\Users\necho\Downloads\TrabajoFinalProgramacionChat\Cliente\Cliente\Cliente\obj\Debug\Cliente.csprojAssemblyReference.cache
+C:\Users\necho\Downloads\TrabajoFinalProgramacionChat\Cliente\Cliente\Cliente\obj\Debug\Cliente.Form1.resources
+C:\Users\necho\Downloads\TrabajoFinalProgramacionChat\Cliente\Cliente\Cliente\obj\Debug\Cliente.Properties.Resources.resources
+C:\Users\necho\Downloads\TrabajoFinalProgramacionChat\Cliente\Cliente\Cliente\obj\Debug\Cliente.csproj.GenerateResource.cache
+C:\Users\necho\Downloads\TrabajoFinalProgramacionChat\Cliente\Cliente\Cliente\obj\Debug\Cliente.exe
+C:\Users\necho\Downloads\TrabajoFinalProgramacionChat\Cliente\Cliente\Cliente\obj\Debug\Cliente.pdb
